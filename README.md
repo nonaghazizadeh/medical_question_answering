@@ -4,17 +4,6 @@ Dr. Asgari
 
 Sharif University of Technology - Spring 2023
 
-Group 3 - Group 13
-
-|Contributors|Student Number|Email|
-| ------------- |:-------------:|:-------------:|
-|Sina Abdous |400211495|sina.abdoos3@gmail.com‏|
-|Hadis Ahmadiyan |400211524|Ahmadiyan.h.99@gmail.com‏|
-|Sara Azarnoush |98170668|azarnooshsa@gmail.com|
-|Mohammadreza Daviran |98101566|mohammadreza.dn80@gmail.com‏|
-|Nona Ghazizadeh |98171007|nonaaghazizadeh@gmail.com‏|
-|Mahsa Yazdani |400200892|mah.yzdni@gmail.com|
-
 
 ## Pipeline
 
