@@ -1,0 +1,925 @@
+[
+    {
+      "en": "He developed an abscess on his arm after the infection.",
+      "fa": "پس از عفونت، در بازوی او یک آبسه شکل گرفت."
+    },
+    {
+      "en": "Her grandmother was diagnosed with Alzheimer's disease last year.",
+      "fa": "مادربزرگش سال گذشته با بیماری آلزایمر تشخیص داده شد."
+    },
+    {
+      "en": "Anthrax is a bacterial infection that can affect both animals and humans.",
+      "fa": "سیاه زخم یک عفونت باکتریایی است که می‌تواند هم در حیوانات و هم در انسان‌ها اثر داشته باشد."
+    },
+    {
+      "en": "She experienced severe abdominal pain and was diagnosed with appendicitis.",
+      "fa": "او درد شدیدی در ناحیه شکم داشت و تشخیص آپاندیسیت گرفت."
+    },
+    {
+      "en": "His allergy to peanuts means he has to be very careful about what he eats.",
+      "fa": "آلرژی او به بادام زمینی باعث می‌شود که او بسیار مراقب غذاهایی باشد که مصرف می‌کند."
+    },
+    {
+      "en": "Arthritis can cause joint pain and inflammation.",
+      "fa": "آرتروز می‌تواند درد و التهاب مفاصل را ایجاد کند."
+    },
+    {
+      "en": "Aseptic meningitis is characterized by inflammation of the meninges without bacterial infection.",
+      "fa": "مننژیت آسپتیک با التهاب مخاطی بدون عفونت باکتریایی مشخص می‌شود."
+    },
+    {
+      "en": "He carries an inhaler with him at all times to manage his asthma.",
+      "fa": "او همیشه یک اینهیلر با خود دارد تا به مدیریت آسم خود بپردازد."
+    },
+    {
+      "en": "Glasses with astigmatism correction help improve his vision.",
+      "fa": "عینک‌های دارای اصلاح آستیگماتیسم به بهبود دید او کمک می‌کنند."
+    },
+    {
+      "en": "Atherosclerosis is a condition where plaque builds up inside the arteries.",
+      "fa": "آترواسکلروز یک شرایط است که توده‌های پلاکی در داخل شریان‌ها ایجاد می‌شود."
+    },
+    {
+      "en": "Bacterial meningitis requires prompt medical treatment due to its seriousness.",
+      "fa": "مننژیت باکتریایی به دلیل جدیتش نیاز به درمان پزشکی سریع دارد."
+    },
+    {
+        "en": "Beriberi is a nutritional deficiency disease caused by a lack of thiamine.",
+        "fa": "بری بری یک بیماری کمبود تغذیه‌ای است که به دلیل کمبود تیامین ایجاد می‌شود."
+    },
+    {
+        "en": "The Black Death was a devastating pandemic that swept through Europe in the 14th century.",
+        "fa": "مرگ سیاه یک وبا ویرانگر بود که در قرن چهاردهم اروپا را تحت تاثیر قرار داد."
+    },
+    {
+        "en": "Black Fungus infection can affect individuals with weakened immune systems.",
+        "fa": "عفونت قارچ سیاه می‌تواند بر افرادی با سیستم ایمنی ضعیف تأثیر بگذارد."
+    },
+    {
+        "en": "Botulism is a rare but serious illness caused by a toxin produced by bacteria.",
+        "fa": "بوتولیسم یک بیماری کمیاب اما جدی است که توسط سمی تولیدشده توسط باکتری‌ها ایجاد می‌شود."
+    },
+    {
+        "en": "Regular mammograms are recommended for early detection of breast cancer.",
+        "fa": "ماموگرافی‌های منظم برای تشخیص زودهنگام سرطان پستان توصیه می‌شود."
+    },
+    {
+        "en": "Bronchitis can lead to persistent coughing and difficulty breathing.",
+        "fa": "برونشیت می‌تواند به سرفه مداوم و دشواری در تنفس منجر شود."
+    },
+    {
+        "en": "Brucellosis is a bacterial infection often transmitted from animals to humans.",
+        "fa": "بروسلوز یک عفونت باکتریایی است که اغلب از حیوانات به انسان‌ها منتقل می‌شود."
+    },
+    {
+        "en": "The bubonic plague, caused by Yersinia pestis bacteria, led to massive historical pandemics.",
+        "fa": "طاعون بوبونیک، که توسط باکتری Yersinia pestis ایجاد می‌شود، منجر به وباهای تاریخی عظیم شد."
+    },
+    {
+        "en": "Her bunion caused discomfort and pain in her foot while walking.",
+        "fa": "بونیون او باعث ناراحتی و درد در پاش هنگام راه رفتن شد."
+    },
+    {
+        "en": "Campylobacter infection can result from consuming contaminated food or water.",
+        "fa": "عفونت کمپیلوباکتر ممکن است از مصرف غذا یا آب آلوده ایجاد شود."
+    },
+    {
+        "en": "Cancer is a complex group of diseases characterized by uncontrolled cell growth.",
+        "fa": "سرطان یک گروه پیچیده از بیماری‌ها است که به خصوص از رشد غیرقابل کنترل سلولی مشخص می‌شود."
+    },
+    {
+        "en": "Candidiasis can affect various parts of the body, including the mouth and genital areas.",
+        "fa": "کاندیدیازیس می‌تواند بخش‌های مختلفی از بدن را تحت تأثیر قرار دهد، از جمله دهان و نواحی تناسلی."
+    },
+    {
+        "en": "Carbon monoxide poisoning can be prevented by using proper ventilation and detectors.",
+        "fa": "مسمومیت با مونوکسید کربن می‌تواند با استفاده از تهویه مناسب و آشکارسازها پیشگیری شود."
+    },
+    {
+        "en": "Coeliac disease is an autoimmune disorder triggered by consuming gluten.",
+        "fa": "بیماری سلیاک یک اختلال ایمنی‌ای است که به واسطه مصرف گلوتن فعال می‌شود."
+    },
+    {
+        "en": "Cerebral palsy affects muscle control and movement due to brain damage.",
+        "fa": "فلج مغزی به دلیل آسیب به مغز، کنترل عضلات و حرکت را تحت تأثیر قرار می‌دهد."
+    },
+    {
+        "en": "Chagas disease, caused by Trypanosoma cruzi, is primarily transmitted by insects.",
+        "fa": "بیماری شاگاس که توسط Trypanosoma cruzi ایجاد می‌شود، اصولاً توسط حشرات منتقل می‌شود."
+    },
+    {
+        "en": "Chickenpox is a highly contagious viral infection characterized by itchy rashes.",
+        "fa": "ابله مرغان یک عفونت ویروسی بسیار مسری است که با حکاکی‌های خارش‌آور مشخص می‌شود."
+    },
+    {
+        "en": "Chlamydia is a common sexually transmitted infection that often presents no symptoms.",
+        "fa": "کلامیدیا یک عفونت متداول جنسی است که اغلب علائمی ندارد."
+    },
+    {
+        "en": "Chlamydia trachomatis is a bacterium responsible for various sexually transmitted infections.",
+        "fa": "کلامیدیا تراکوماتیس یک باکتری مسئول انواع عفونت‌های جنسی است."
+    },
+    {
+        "en": "Cholera is a highly contagious bacterial infection that causes severe diarrhea and dehydration.",
+        "fa": "وبا یک عفونت باکتریایی بسیار مسری است که اسهال شدید و کم آبی را ایجاد می‌کند."
+    },
+    {
+        "en": "Chordoma is a rare type of cancer that forms in the spine or skull base.",
+        "fa": "چوردوما یک نوع کمیاب از سرطان است که در غضروف فقرات یا پایه جمجمه شکل می‌گیرد."
+    },
+    {
+        "en": "Chronic fatigue syndrome is characterized by persistent and unexplained exhaustion.",
+        "fa": "سندرم خستگی مزمن به تخلیق مداوم و غیرقابل توجیه مشخص می‌شود."
+    },
+    {
+        "en": "Circadian rhythm sleep disorder disrupts the normal sleep-wake cycle.",
+        "fa": "اختلال خواب ریتم شبانه‌روزی چرخه خواب و بیداری طبیعی را اختلال می‌دهد."
+    },
+    {
+        "en": "Colitis is inflammation of the colon lining that can cause abdominal pain and diarrhea.",
+        "fa": "کولیت التهاب مخاط روده کبدی است که می‌تواند منجر به درد شکمی و اسهال شود."
+    },
+    {
+        "en": "The common cold is a viral infection that leads to symptoms like a runny nose and coughing.",
+        "fa": "سرماخوردگی یک عفونت ویروسی است که منجر به علائمی مانند بینی روان و سرفه می‌شود."
+    },
+    {
+        "en": "Condyloma, also known as genital warts, is caused by certain strains of human papillomavirus.",
+        "fa": "کندیلوم، همچنین به عنوان داروئی تناسلی شناخته می‌شود، توسط سویه‌های خاصی از ویروس پاپیلومای انسانی ایجاد می‌شود."
+    },
+    {
+        "en": "Congestive heart disease, also known as heart failure, occurs when the heart can't pump blood effectively.",
+        "fa": "بیماری احتقانی قلب، همچنین به عنوان نقص قلب شناخته می‌شود، زمانی رخ می‌دهد که قلب نمی‌تواند به طور مؤثر خون را پمپ کند."
+    },
+    {
+        "en": "Coronary heart disease is a condition where the arteries supplying the heart muscle become narrowed.",
+        "fa": "بیماری عروق کرونر قلب یک شرایط است که در آن عروقی که خون به عضلات قلب می‌رسانند، تنگ می‌شوند."
+    },
+    {
+        "en": "COVID-19 is a respiratory illness caused by the novel coronavirus.",
+        "fa": "کووید-۱۹ یک بیماری تنفسی است که توسط کروناویروس جدید ایجاد می‌شود."
+    },
+    {
+        "en": "Cowpox is a viral infection that is similar to but less severe than smallpox.",
+        "fa": "آبله گاوی یک عفونت ویروسی است که به آبله کوچک شباهت دارد اما کمتر شدت دارد."
+    },
+    {
+        "en": "Crohn's Disease is an inflammatory bowel disease that affects the digestive tract.",
+        "fa": "بیماری کرون یک بیماری التهابی روده است که دستگاه گوارش را تحت تأثیر قرار می‌دهد."
+    },
+    {
+        "en": "Coronavirus refers to a family of viruses that can cause respiratory illnesses in humans.",
+        "fa": "ویروس کرونا به یک خانواده از ویروس‌ها اشاره دارد که می‌تواند بیماری‌های تنفسی در انسان‌ها ایجاد کند."
+    },
+    {
+        "en": "Dengue Fever is a mosquito-borne viral infection that leads to flu-like symptoms.",
+        "fa": "تب دنگی یک عفونت ویروسی است که توسط پشه منتقل می‌شود و منجر به علائم شبیه به آنفلوآنزا می‌شود."
+    },
+    {
+        "en": "Diabetes mellitus is a metabolic disorder characterized by high blood sugar levels.",
+        "fa": "دیابت شیرین یک اختلال متابولیکی است که به علائم قند خون بالا مشخص می‌شود."
+    },
+    {
+        "en": "Diphtheria is a bacterial infection that can cause a thick grayish coating in the throat.",
+        "fa": "دیفتری یک عفونت باکتریایی است که می‌تواند به پوشش خاکستری ضخیمی در حلق منجر شود."
+    },
+    {
+        "en": "Dehydration occurs when the body loses more fluids than it takes in.",
+        "fa": "کم آبی بدن زمانی رخ می‌دهد که بدن بیشتر از آنچه مصرف می‌کند، مایعات خود را از دست می‌دهد."
+    },
+    {
+        "en": "Dysentery is an inflammatory disorder of the intestine that leads to severe diarrhea.",
+        "fa": "اسهال خونی یک اختلال التهابی روده است که منجر به اسهال شدید می‌شود."
+    },
+    {
+        "en": "Ear infection can cause pain and temporary hearing loss.",
+        "fa": "عفونت گوش می‌تواند درد و از دست دادن موقت شنوایی را ایجاد کند."
+    },
+    {
+        "en": "Ebola is a severe and often fatal viral illness that causes fever and internal bleeding.",
+        "fa": "ابولا یک بیماری ویروسی شدید و اغلب مرگبار است که تب و خونریزی داخلی را ایجاد می‌کند."
+    },
+    {
+        "en": "Encephalitis is inflammation of the brain tissue, often caused by viral infections.",
+        "fa": "آنسفالیت التهاب بافت مغز است که اغلب به علت عفونت‌های ویروسی ایجاد می‌شود."
+    },
+    {
+        "en": "Emphysema is a lung condition that leads to shortness of breath and difficulty in exhaling.",
+        "fa": "آمفیزما یک شرایط ریه‌ای است که منجر به دشواری تنفس و مشکل در خروج هوا می‌شود."
+    },
+    {
+        "en": "Epilepsy is a neurological disorder characterized by recurrent seizures.",
+        "fa": "صرع یک اختلال عصبی است که با تشنج‌های مکرر مشخص می‌شود."
+    },
+    {
+        "en": "Fibromyalgia is a condition characterized by widespread pain and fatigue.",
+        "fa": "فیبرومیالژیا یک شرایطی است که با درد گسترده و خستگی مشخص می‌شود."
+    },
+    {
+        "en": "Foodborne illness is caused by consuming contaminated food and can result in various symptoms.",
+        "fa": "بیماری ناشی از غذا به دلیل مصرف غذای آلوده ایجاد می‌شود و می‌تواند منجر به علائم مختلفی شود."
+    },
+    {
+        "en": "Gangrene is tissue death caused by a lack of blood supply.",
+        "fa": "قانقاریا مرگ بافتی است که به دلیل کمبود عرضه خون ایجاد می‌شود."
+    },
+    {
+        "en": "Gastroenteritis is inflammation of the stomach and intestines, often causing vomiting and diarrhea.",
+        "fa": "گاستروانتریت التهاب معده و روده‌ها است که اغلب به استفراغ و اسهال منجر می‌شود."
+    },
+    {
+        "en": "Goitre is the enlargement of the thyroid gland in the neck.",
+        "fa": "گواتر بزرگ شدن غده تیروئید در گردن است."
+    },
+    {
+        "en": "Gonorrhea is a sexually transmitted infection caused by the bacterium Neisseria gonorrhoeae.",
+        "fa": "سوزاک یک عفونت جنسی است که توسط باکتری Neisseria gonorrhoeae ایجاد می‌شود."
+    },
+    {
+        "en": "Heart disease refers to various conditions affecting the heart's structure and function.",
+        "fa": "بیماری قلبی به انواع مشکلاتی اشاره دارد که بر ساختار و عملکرد قلب تأثیر می‌گذارند."
+    },
+    {
+        "en": "Hepatitis A is a viral liver disease often spread through contaminated food and water.",
+        "fa": "هپاتیت A یک بیماری ویروسی کبد است که اغلب از طریق مصرف غذا و آب آلوده منتقل می‌شود."
+    },
+    {
+        "en": "Hepatitis B is a viral infection that can lead to chronic liver disease.",
+        "fa": "هپاتیت B یک عفونت ویروسی است که می‌تواند به بیماری مزمن کبدی منجر شود."
+    },
+    {
+        "en": "Hepatitis C is a viral infection that affects the liver and can lead to long-term liver damage.",
+        "fa": "هپاتیت C یک عفونت ویروسی است که کبد را تحت تأثیر قرار می‌دهد و می‌تواند به آسیب دائمی کبد منجر شود."
+    },
+    {
+        "en": "Hepatitis D is a viral infection that only occurs in people who are already infected with hepatitis B.",
+        "fa": "هپاتیت D یک عفونت ویروسی است که تنها در افرادی رخ می‌دهد که قبلاً به هپاتیت B مبتلا شده‌اند."
+    },
+    {
+        "en": "Hepatitis E is a viral infection transmitted through contaminated water and can cause liver disease.",
+        "fa": "هپاتیت E یک عفونت ویروسی است که از طریق آب آلوده منتقل می‌شود و می‌تواند به بیماری کبدی منجر شود."
+    },
+    {
+        "en": "Histiocytosis is a rare childhood cancer that involves an excess of immune cells.",
+        "fa": "هیستیوسیتوز یک نوع کمیاب از سرطان دوران کودکی است که شامل افزایش بیش از حد سلول‌های ایمنی است."
+    },
+    {
+        "en": "HIV (Human Immunodeficiency Virus) weakens the immune system and can lead to AIDS.",
+        "fa": "اچ‌آی‌وی (ویروس ایمنی ناشی از انسان) سیستم ایمنی را ضعیف می‌کند و می‌تواند به ایدز منجر شود."
+    },
+    {
+        "en": "Human papillomavirus (HPV) is a group of viruses that can cause genital warts and increase the risk of certain cancers.",
+        "fa": "ویروس پاپیلوم انسانی (HPV) یک گروه از ویروس‌ها است که می‌تواند زگیل تناسلی ایجاد کند و خطر بیماری‌های سرطانی خاصی را افزایش دهد."
+    },
+    {
+        "en": "Huntington's disease is a genetic disorder that leads to progressive degeneration of nerve cells in the brain.",
+        "fa": "بیماری هانتینگتون یک اختلال ژنتیکی است که به تدریج باعث تخریب سلول‌های عصبی در مغز می‌شود."
+    },
+    {
+        "en": "Hypermetropia, also known as farsightedness, is a vision condition where distant objects are seen more clearly than nearby ones.",
+        "fa": "هایپر متروپی، همچنین به عنوان دوربینی شناخته می‌شود، یک شرایط بینایی است که در آن اشیاء دور بهتر از اشیاء نزدیک دیده می‌شوند."
+    },
+    {
+        "en": "Hyperopia, commonly known as farsightedness, is a vision condition where distant objects are clearer than nearby ones.",
+        "fa": "دوربینی، همچنین به عنوان دوربینی شناخته می‌شود، یک شرایط بینایی است که در آن اشیاء دور بهتر از اشیاء نزدیک دیده می‌شوند."
+    },
+    {
+        "en": "Hyperthyroidism is a condition where the thyroid gland produces an excess of thyroid hormones.",
+        "fa": "پرکاری تیروئید یک شرایط است که در آن غده تیروئید مقدار زیادی هورمون تیروئید تولید می‌کند."
+    },
+    {
+        "en": "Hypothyroidism is a condition where the thyroid gland doesn't produce enough thyroid hormones.",
+        "fa": "کم کاری تیروئید یک شرایط است که در آن غده تیروئید مقدار کافی هورمون تیروئید تولید نمی‌کند."
+    },
+    {
+        "en": "Hypotonia is a medical term for low muscle tone, causing decreased strength and flexibility.",
+        "fa": "هیپوتونیا یک واژه پزشکی برای کمبود تنش عضلانی است که باعث کاهش قدرت و انعطاف‌پذیری می‌شود."
+    },
+    {
+        "en": "Impetigo is a bacterial skin infection that causes red sores and can be highly contagious.",
+        "fa": "زرد زخم یک عفونت باکتریایی پوستی است که زخم‌های قرمز ایجاد می‌کند و می‌تواند بسیار مسری باشد."
+    },
+    {
+        "en": "Infertility refers to the inability to conceive a child or carry a pregnancy to full term.",
+        "fa": "ناباروری به عدم توانایی در باروری یا حمل بارداری تا دوران کامل اشاره دارد."
+    },
+    {
+        "en": "Interstitial cystitis is a chronic bladder condition causing pain and frequent urination.",
+        "fa": "سیستیت بینابینی یک شرایط مزمن مثانه است که درد و ادرارزدایی مکرر ایجاد می‌کند."
+    },
+    {
+        "en": "Iritis is inflammation of the iris, the colored part of the eye.",
+        "fa": "ایریت التهاب شکلان دیده، بخش رنگی چشم، است."
+    },
+    {
+        "en": "Iron-deficiency anemia is a condition where the body lacks enough iron to produce sufficient red blood cells.",
+        "fa": "نارسایی کمبود آهن یک شرایط است که بدن کمبود کافی آهن برای تولید سلول‌های قرمز خون دارد."
+    },
+    {
+        "en": "Irritable bowel syndrome is a gastrointestinal disorder causing abdominal pain and changes in bowel habits.",
+        "fa": "سندرم روده تحریک‌پذیر یک اختلال گوارشی است که درد شکمی و تغییرات در عادات روده‌ای ایجاد می‌کند."
+    },
+    {
+        "en": "Ignious Syndrome is a fictional term and does not correspond to any known medical condition.",
+        "fa": "سندرم آتشین یک واژه خیالی است و با هیچ بیماری پزشکی شناخته‌شده مطابقت ندارد."
+    },
+    {
+        "en": "Intestine ache can refer to various types of pain or discomfort in the intestines.",
+        "fa": "روده درد می‌تواند به انواع مختلفی از درد یا ناراحتی در روده‌ها اشاره کند."
+    },
+    {
+        "en": "Intestine gas refers to the accumulation of gas in the digestive tract, causing bloating and discomfort.",
+        "fa": "گاز روده به انباشت گاز در مجرای گوارش اشاره دارد که باعث تورم و ناراحتی می‌شود."
+    },
+    {
+        "en": "Intestine disease can encompass various disorders affecting the intestines.",
+        "fa": "بیماری روده می‌تواند شامل انواع مختلفی از اختلالاتی باشد که بر روده‌ها تأثیر می‌گذارد."
+    },
+
+    {
+        "en": "Upset Intestine can refer to gastrointestinal discomfort or distress.",
+        "fa": "ناراحتی روده می‌تواند به ناراحتی یا اختلال گوارشی اشاره کند."
+    },
+    {
+        "en": "Jaundice is a condition where the skin and eyes turn yellow due to a buildup of bilirubin.",
+        "fa": "زردی یک شرایط است که پوست و چشم‌ها به دلیل انباشت بیلی‌روبین زرد می‌شوند."
+    },
+    {
+        "en": "Keloids are raised scar tissues that can form after an injury or surgery.",
+        "fa": "کلوئیدها بافت‌های ندو بالا کشیده شده‌ای هستند که می‌توانند پس از آسیب یا جراحی شکل بگیرند."
+    },
+    {
+        "en": "Kuru is a rare neurological disease found in some regions, characterized by tremors and loss of coordination.",
+        "fa": "کورو یک بیماری عصبی نادر در برخی مناطق است که با لرزش‌ها و از دست دادن هماهنگی مشخص می‌شود."
+    },
+    {
+        "en": "Kwashiorkor is a form of severe protein-energy malnutrition, often seen in children.",
+        "fa": "کواشیورکور یک نوع ناراحتی شدید کمبود پروتئین و انرژی است که اغلب در کودکان دیده می‌شود."
+    },
+    {
+        "en": "Kidney stone disease involves the formation of hard deposits in the kidneys, leading to pain and discomfort.",
+        "fa": "بیماری سنگ کلیه شامل ایجاد توده‌های سفت در کلیه‌ها است که باعث درد و ناراحتی می‌شود."
+    },
+    {
+        "en": "Laryngitis is inflammation of the voice box, leading to hoarseness or loss of voice.",
+        "fa": "لارنژیت التهاب گلوی صدا را تحت تأثیر قرار می‌دهد که منجر به تریشه یا از دست دادن صدا می‌شود."
+    },
+    {
+        "en": "Leishmaniasis is a disease caused by parasites transmitted through sandfly bites.",
+        "fa": "لیشمانیوز یک بیماری است که توسط انگل‌ها از طریق نیش پشه‌های شناور منتقل می‌شود."
+    },
+    {
+        "en": "Leprosy is a chronic infectious disease affecting the skin, nerves, and mucous membranes.",
+        "fa": "جذام یک بیماری مزمن عفونی است که پوست، اعصاب و غشاء‌های مخاطی را تحت تأثیر قرار می‌دهد."
+    },
+    {
+        "en": "Leptospirosis is a bacterial infection often spread through contaminated water, causing flu-like symptoms.",
+        "fa": "لپتوسپیروز یک عفونت باکتریایی است که اغلب از طریق آب آلوده منتقل می‌شود و علائم شبیه به آنفلوآنزا ایجاد می‌کند."
+    },
+    {
+        "en": "Listeriosis is a foodborne illness caused by consuming contaminated foods.",
+        "fa": "لیستریوز یک بیماری ناشی از مصرف مواد غذایی آلوده است."
+    },
+    {
+        "en": "Leukemia is a type of cancer that affects the blood-forming tissues, such as the bone marrow.",
+        "fa": "سرطان خون یک نوع سرطان است که بافت‌های تشکیل خون مانند مغز استخوان را تحت تأثیر قرار می‌دهد."
+    },
+    {
+        "en": "Lice are small parasitic insects that infest the hair and feed on blood.",
+        "fa": "شپش‌ها حشرات کوچک انگل‌زا هستند که موها را تسخیر می‌کنند و از خون تغذیه می‌کنند."
+    },
+    {
+        "en": "Loiasis is a parasitic infection caused by Loa loa worms, transmitted through fly bites.",
+        "fa": "لوئیازیس یک عفونت انگلی است که توسط کرم‌های لوآ لوآ منتقل می‌شود و از طریق نیش پروانه‌ها انتقال می‌یابد."
+    },
+    {
+        "en": "Lung cancer is a disease characterized by the uncontrolled growth of cells in the lungs.",
+        "fa": "سرطان ریه یک بیماری است که با رشد غیرکنترل شده سلول‌ها در ریه‌ها مشخص می‌شود."
+    },
+    {
+        "en": "Lupus erythematosus is an autoimmune disease that can affect multiple organs and systems.",
+        "fa": "لوپوس اریتماتوز یک بیماری ایمنی‌ای است که می‌تواند بر روی اعضا و سیستم‌های متعددی تأثیر بگذارد."
+    },
+    {
+        "en": "Lyme disease is an infectious disease transmitted through tick bites, causing flu-like symptoms.",
+        "fa": "بیماری لایم یک بیماری عفونی است که از طریق نیش کرم‌ها منتقل می‌شود و علائم شبیه به آنفلوآنزا ایجاد می‌کند."
+    },
+    {
+        "en": "Lymphogranuloma venereum is a sexually transmitted infection affecting the lymph nodes and genitals.",
+        "fa": "لنفوگرانولوم ونرئوم یک عفونت انتقال جنسی است که بر لنفاوی‌ها و اعضای تناسلی تأثیر می‌گذارد."
+    },
+    {
+        "en": "Lymphoma is a type of cancer that originates in the lymphatic system.",
+        "fa": "لنفوم یک نوع سرطان است که از سیستم لنفاوی نشأت می‌گیرد."
+    },
+    {
+        "en": "Limbtoosa is a fictional term and does not correspond to any known medical condition.",
+        "fa": "لیمبتوسا یک واژه خیالی است و با هیچ بیماری پزشکی شناخته‌شده مطابقت ندارد."
+    },
+    {
+        "en": "Mad cow disease, also known as bovine spongiform encephalopathy, is a neurodegenerative disease affecting cattle.",
+        "fa": "بیماری جنون گاوی، همچنین به عنوان انسفالوپاتی اسفنژی گاوی شناخته می‌شود، یک بیماری عصبی انگاری در گاوهاست."
+    },
+    {
+        "en": "Malaria is a mosquito-borne disease causing fever and flu-like symptoms.",
+        "fa": "مالاریا یک بیماری که از طریق پشه‌ها منتقل می‌شود و تب و علائم شبیه به آنفلوآنزا را ایجاد می‌کند."
+    },
+    {
+        "en": "Marburg fever is a viral hemorrhagic fever similar to Ebola, causing severe illness.",
+        "fa": "تب ماربورگ یک تب خونریزی ویروسی است که به ابولا شباهت دارد و بیماری شدیدی ایجاد می‌کند."
+    },
+    {
+        "en": "Measles is a highly contagious viral infection causing fever and a distinctive rash.",
+        "fa": "سرخک یک عفونت ویروسی بسیار مسری است که تب و یک جوش مشخص ایجاد می‌کند."
+    },
+    {
+        "en": "Melanoma is a type of skin cancer that develops from pigment-producing cells.",
+        "fa": "ملانوما یک نوع سرطان پوست است که از سلول‌های تولیدکننده پیگمانت تشکیل می‌شود."
+    },
+    {
+        "en": "Metastatic cancer refers to cancer that has spread from its original location to other parts of the body.",
+        "fa": "سرطان متاستاتیک به سرطان اشاره دارد که از محل اصلی خود به سایر اجزای بدن گسترش یافته است."
+    },
+    {
+        "en": "Meniere’s disease is a disorder of the inner ear, leading to vertigo and hearing loss.",
+        "fa": "مریضی منیر یک اختلال در گوش داخلی است که به سرگیجه و از دست دادن شنوایی منجر می‌شود."
+    },
+    {
+        "en": "Meningitis is inflammation of the membranes surrounding the brain and spinal cord.",
+        "fa": "مننژیت التهاب غشایی‌های اطراف مغز و نخاع را تحت تأثیر قرار می‌دهد."
+    },
+    {
+        "en": "Migraine is a severe headache often accompanied by nausea and sensitivity to light.",
+        "fa": "میگرن یک سردرد شدید است که اغلب با تهوع و حساسیت به نور همراه است."
+    },
+    {
+        "en": "Mononucleosis, often referred to as mono, is an infectious illness causing fatigue and flu-like symptoms.",
+        "fa": "مونونوکلئوز، اغلب به عنوان مونو نامیده می‌شود، یک بیماری عفونی است که خستگی و علائم شبیه به آنفلوآنزا را ایجاد می‌کند."
+    },
+    {
+        "en": "Multiple myeloma is a type of cancer that affects plasma cells in the bone marrow.",
+        "fa": "مولتیپل میلوما یک نوع سرطان است که بر سلول‌های پلاسمایی در مغز استخوان اثر می‌گذارد."
+    },
+    {
+        "en": "Multiple sclerosis is a chronic autoimmune disease affecting the central nervous system.",
+        "fa": "اسکلروز چندگانه یک بیماری ایمنی‌ای مزمن است که بر سیستم عصبی مرکزی تأثیر می‌گذارد."
+    },
+    {
+        "en": "Mumps is a contagious viral infection causing swelling of the salivary glands.",
+        "fa": "اوریون یک عفونت ویروسی مسری است که باعث تورم غده‌های لعابی می‌شود."
+    },
+    {
+        "en": "Muscular dystrophy is a group of genetic disorders leading to progressive muscle weakness.",
+        "fa": "دیستروفی عضلانی یک گروه از اختلالات ژنتیکی است که منجر به ضعف مداوم عضلات می‌شود."
+    },
+    {
+        "en": "Myasthenia gravis is a neuromuscular disorder causing muscle weakness and fatigue.",
+        "fa": "میاستنی گراویس یک اختلال عصب-عضله‌ای است که ضعف عضلات و خستگی را ایجاد می‌کند."
+    },
+    {
+        "en": "Myelitis is inflammation of the spinal cord, leading to neurological symptoms.",
+        "fa": "میلیتیس التهاب نخاعی را تحت تأثیر قرار می‌دهد و به علائم عصبی منجر می‌شود."
+    },
+    {
+        "en": "Myoclonus is a neurological disorder characterized by involuntary muscle contractions.",
+        "fa": "میوکلونوس یک اختلال عصبی است که با انقباضات ناخواسته عضلات همراه است."
+    },
+    {
+        "en": "Myopia, also known as nearsightedness, is a condition where distant objects appear blurry.",
+        "fa": "نزدیک بینی یا کوتاه بینی، شرایطی هستند که در آن اشیاء دور دور به شکل غیر واضح دیده می‌شوند."
+    },
+    {
+        "en": "Myxedema is a rare condition caused by severe hypothyroidism, leading to swelling of the skin and tissues.",
+        "fa": "میکسدم یک شرایط نادر است که به واسطه کم‌کاری شدید تیروئید ایجاد می‌شود و منجر به تورم پوست و بافت‌ها می‌شود."
+    },
+    {
+        "en": "Morquio Syndrome, also known as mucopolysaccharidosis type IV, is a rare genetic disorder.",
+        "fa": "سندرم مورکیو، همچنین به عنوان نوع چهارم موکوپولی‌ساکاریدوز شناخته می‌شود، یک اختلال ژنتیکی نادر است."
+    },
+    {
+        "en": "Mattticular syndrome is not a recognized medical condition.",
+        "fa": "سندرم ماتیکولار یک شرایط پزشکی شناخته‌شده نیست."
+    },
+    {
+        "en": "Mononucleosis, often referred to as mono, is an infectious illness causing fatigue and flu-like symptoms.",
+        "fa": "مونونوکلئوز، اغلب به عنوان مونو نامیده می‌شود، یک بیماری عفونی است که خستگی و علائم شبیه به آنفلوآنزا را ایجاد می‌کند."
+    },
+    {
+        "en": "Neoplasm is a medical term for an abnormal growth of tissue, commonly referred to as a tumor.",
+        "fa": "نئوپلاسم یک اصطلاح پزشکی برای رشد غیرطبیعی بافت است که معمولاً به عنوان تومور شناخته می‌شود."
+    },
+    {
+        "en": "Non-gonococcal urethritis is a sexually transmitted infection affecting the urethra.",
+        "fa": "اورتریت غیر گنوکوکی یک عفونت انتقال جنسی است که روده‌ای را تحت تأثیر قرار می‌دهد."
+    },
+    {
+        "en": "Necrotizing Fasciitis, also known as flesh-eating disease, is a severe bacterial infection affecting the soft tissues.",
+        "fa": "فاشئیت نکروزان، همچنین به عنوان بیماری خوردن گوشت شناخته می‌شود، یک عفونت باکتریایی شدید است که بافت‌های نرم را تحت تأثیر قرار می‌دهد."
+    },
+    {
+        "en": "Night blindness is a condition where the ability to see in low light or darkness is reduced.",
+        "fa": "شب کوری یک شرط است که توانایی دید در نور کم یا تاریکی کاهش می‌یابد."
+    },
+    {
+        "en": "Obesity is a medical condition characterized by excessive body weight and fat accumulation.",
+        "fa": "چاقی یک شرایط پزشکی است که با وزن بدن اضافی و تجمع چربی همراه است."
+    },
+    {
+        "en": "Osteoarthritis is a degenerative joint disease causing pain and stiffness.",
+        "fa": "آرتروز یک بیماری تخریبی مفصلی است که درد و سفتی را ایجاد می‌کند."
+    },
+    {
+        "en": "Osteoporosis is a condition where bones become brittle and prone to fracture.",
+        "fa": "پوکی استخوان یک شرایط است که استخوان‌ها شکننده و در خطر شکستگی قرار می‌گیرند."
+    },
+    {
+        "en": "Otitis is inflammation of the ear, often resulting in pain and discomfort.",
+        "fa": "اوتیت التهاب گوش است که اغلب باعث درد و ناراحتی می‌شود."
+    },
+    {
+        "en": "Palindromic rheumatism is a type of inflammatory arthritis characterized by recurrent episodes of joint pain and swelling.",
+        "fa": "روماتیسم پالیندرومیک یک نوع التهاب مفاصل است که به تکرار حملات درد و تورم مفاصل همراه باشد."
+    },
+    {
+        "en": "Paratyphoid fever is a bacterial infection similar to typhoid fever, causing fever and gastrointestinal symptoms.",
+        "fa": "تب پاراتیفوئید یک عفونت باکتریایی مشابه تیفوئید است که تب و علائم گوارشی را ایجاد می‌کند."
+    },
+    {
+        "en": "Parkinson's disease is a neurodegenerative disorder affecting movement and coordination.",
+        "fa": "بیماری پارکینسون یک اختلال عصبی-تخریبی است که حرکت و هماهنگی را تحت تأثیر قرار می‌دهد."
+    },
+    {
+        "en": "Pelvic inflammatory disease is an infection of the female reproductive organs causing pain and discomfort.",
+        "fa": "بیماری التهابی لگن یک عفونت از اعضای تولید مثلی زنانه است که درد و ناراحتی ایجاد می‌کند."
+    },
+    {
+        "en": "Peritonitis is inflammation of the peritoneum, the membrane lining the abdominal cavity.",
+        "fa": "پریتونیت التهاب پریتونئوم، پوشش غشایی داخل شکم را تحت تأثیر قرار می‌دهد."
+    },
+    {
+        "en": "Periodontal disease is a chronic infection affecting the gums and supporting structures of the teeth.",
+        "fa": "بیماری پریودنتال یک عفونت مزمن است که بافت‌های لثه و ساختارهای حمایتی دندان‌ها را تحت تأثیر قرار می‌دهد."
+    },
+    {
+        "en": "Pertussis, also known as whooping cough, is a highly contagious bacterial infection causing severe coughing fits.",
+        "fa": "سیاه سرفه، همچنین به عنوان سرفه بلند شناخته می‌شود، یک عفونت باکتریایی بسیار مسری است که تشنج‌های سرفه شدید ایجاد می‌کند."
+    },
+    {
+        "en": "Phenylketonuria is a genetic disorder preventing the breakdown of an amino acid, leading to intellectual disabilities.",
+        "fa": "فنیل کتونوری یک اختلال ژنتیکی است که جلوگیری از تجزیه و تحلیل یک اسید آمینه را با خود به همراه دارد و منجر به معلولیت‌های ذهنی می‌شود."
+    },
+    {
+        "en": "Plague is a highly contagious bacterial disease with fever, chills, and swollen lymph nodes.",
+        "fa": "طاعون یک بیماری باکتریایی بسیار مسری است که با تب، لرز، و تورم گره‌های لنفی همراه است."
+    },
+    {
+        "en": "Poliomyelitis, also known as polio, is a viral infection causing paralysis and muscle weakness.",
+        "fa": "فلج اطفال، همچنین به عنوان پلیو نیز شناخته می‌شود، یک عفونت ویروسی است که منجر به فلج و ضعف عضلات می‌شود."
+    },
+    {
+        "en": "Porphyria is a group of rare genetic disorders affecting the nervous system and skin.",
+        "fa": "پورفیریا یک گروه از اختلالات ژنتیکی نادر است که به سیستم عصبی و پوست تأثیر می‌گذارد."
+    },
+    {
+        "en": "Progeria, also known as Hutchinson-Gilford Progeria Syndrome, is a rare genetic disorder causing rapid aging in children.",
+        "fa": "پروگریا، همچنین به عنوان سندرم پروگریا هچینسون-گیلفورد شناخته می‌شود، یک اختلال ژنتیکی نادر است که پیری سریع در کودکان ایجاد می‌کند."
+    },
+    {
+        "en": "Prostatitis is inflammation of the prostate gland, often causing pain and urinary symptoms.",
+        "fa": "پروستاتیت التهاب غده پروستات را تحت تأثیر قرار می‌دهد و اغلب درد و علائم ادراری ایجاد می‌کند."
+    },
+    {
+        "en": "Psittacosis, also known as parrot fever, is a bacterial infection transmitted from birds to humans.",
+        "fa": "پسیتاکوزیس، همچنین به عنوان تب پرنده شناخته می‌شود، یک عفونت باکتریایی است که از پرندگان به انسان‌ها منتقل می‌شود."
+    },
+    {
+        "en": "Psoriasis is a chronic autoimmune condition causing skin cells to build up rapidly, leading to scales and red patches.",
+        "fa": "پسوریازیس یک شرایط ایمنی-خودایمنی مزمن است که منجر به سریع‌تر تجمع سلول‌های پوستی می‌شود و باعث تشکیل لایه‌های پوستی و لکه‌های قرمز می‌شود."
+    },
+    {
+        "en": "Pulmonary embolism is a blockage in one of the pulmonary arteries in the lungs, often caused by a blood clot.",
+        "fa": "آمبولی ریه یک مسدودیت در یکی از شریان‌های ریه در ریه‌هاست که اغلب به علت تشکیل یک لخته خون ایجاد می‌شود."
+    },
+    {
+        "en": "Pilia, also known as infant jaundice, is a condition causing yellowing of the skin and eyes in newborns.",
+        "fa": "پیلیا، همچنین به عنوان زردی نوزادان شناخته می‌شود، یک شرایط است که باعث زردی پوست و چشم‌ها در نوزادان می‌شود."
+    },
+    {
+        "en": "Pneumonia is an inflammatory condition of the lungs, often caused by infection.",
+        "fa": "پنومونی یک شرایط التهابی ریه‌هاست که اغلب به علت عفونت ایجاد می‌شود."
+    },
+    {
+        "en": "Q fever is a bacterial infection usually acquired from animals, causing flu-like symptoms.",
+        "fa": "تب کیو یک عفونت باکتریایی است که معمولاً از حیوانات به انسان‌ها منتقل می‌شود و علائم شبیه به آنفلوآنزا را ایجاد می‌کند."
+    },
+    {
+        "en": "Ques fever is not a recognized medical condition.",
+        "fa": "تب کوئس یک شرایط پزشکی شناخته‌شده نیست."
+    },
+    {
+        "en": "Rabies is a viral disease transmitted through animal bites, affecting the central nervous system.",
+        "fa": "هاری یک بیماری ویروسی است که از طریق نیش حیوانات منتقل می‌شود و سیستم عصبی مرکزی را تحت تأثیر قرار می‌دهد."
+    },
+    {
+        "en": "Rheumatic fever is an inflammatory condition that can occur after strep throat, causing joint pain and heart valve damage.",
+        "fa": "تب روماتیسمی یک شرایط التهابی است که می‌تواند پس از التهاب حلق استرپ ایجاد شود و باعث درد مفاصل و آسیب به سیاق‌های قلبی می‌شود."
+    },
+    {
+        "en": "Rheumatic heart disease is a complication of rheumatic fever, affecting the heart valves.",
+        "fa": "قلب روماتیسمی یک عارضه از تب روماتیسمی است که به سیاق‌های قلبی آسیب می‌رساند."
+    },
+    {
+        "en": "Rheumatism is a general term for various conditions causing pain and inflammation in the joints, muscles, or connective tissues.",
+        "fa": "روماتیسم یک اصطلاح کلی برای انواع شرایط است که درد و التهاب در مفاصل، عضلات یا بافت‌های اتصالی ایجاد می‌کنند."
+    },
+    {
+        "en": "Rheumatoid arthritis is a chronic autoimmune disorder affecting the joints, causing pain, swelling, and stiffness.",
+        "fa": "روماتیسم مفصلی یک اختلال ایمنی-خودایمنی مزمن است که مفاصل را تحت تأثیر قرار داده و درد، تورم و سفتی ایجاد می‌کند."
+    },
+    {
+        "en": "Rickets is a condition resulting from a deficiency of vitamin D, causing weak or brittle bones.",
+        "fa": "راشیتیسم یک شرایط است که ناشی از کمبود ویتامین D است و باعث ضعف یا شکنندگی استخوان‌ها می‌شود."
+    },
+    {
+        "en": "Rubella, also known as German measles, is a viral infection causing rash, fever, and joint pain.",
+        "fa": "سرخک، همچنین به عنوان تب آلمانی شناخته می‌شود، یک عفونت ویروسی است که باعث تورم، تب و درد مفاصل می‌شود."
+    },
+    {
+        "en": "Salmonellosis is a bacterial infection usually acquired from contaminated food, causing diarrhea and abdominal cramps.",
+        "fa": "سالمونلوز یک عفونت باکتریایی است که معمولاً از طریق غذاهای آلوده به دست می‌آید و اسهال و کرم‌های شکمی ایجاد می‌کند."
+    },
+    {
+        "en": "Scabies is a contagious skin infestation caused by mites, leading to itching and rash.",
+        "fa": "گال یک اختلال پوست مسری است که توسط جونده‌ها ایجاد می‌شود و باعث خارش و آسیب می‌شود."
+    },
+    {
+        "en": "Scarlet fever is a bacterial infection causing a red rash and high fever, often occurring with strep throat.",
+        "fa": "مخملک یک عفونت باکتریایی است که تورم قرمز و تب بالا را ایجاد می‌کند و اغلب با التهاب حلق استرپ همراه می‌شود."
+    },
+    {
+        "en": "Sciatica is a condition characterized by pain radiating along the sciatic nerve, often affecting the lower back and legs.",
+        "fa": "سیاتیک یک شرایط است که با درد تشعشعی در سراخ عصبی سیاتیک همراه است و اغلب تأثیرگذاری روی پشت پایین و پاها را دارد."
+    },
+    {
+        "en": "Scleroderma is a chronic autoimmune disorder causing the skin and connective tissues to become hard and thick.",
+        "fa": "اسکلرودرمی یک اختلال ایمنی-خودایمنی مزمن است که باعث سفت و ضخیم شدن پوست و بافت‌های اتصالی می‌شود."
+    },
+    {
+        "en": "Scrapie is a fatal neurodegenerative disease affecting sheep and goats.",
+        "fa": "اسکرپی یک بیماری عصبی-تخریبی مرگبار است که گوسفندان و بزها را تحت تأثیر قرار می‌دهد."
+    },
+    {
+        "en": "Scurvy is a condition caused by a deficiency of vitamin C, leading to weakness, anemia, and gum disease.",
+        "fa": "اسکوربوت یک شرایط ناشی از کمبود ویتامین C است که به ضعف، کم خونی و بیماری لثه منجر می‌شود."
+    },
+    {
+        "en": "Sepsis is a severe and potentially life-threatening response to infection, causing organ dysfunction.",
+        "fa": "سپسیس یک پاسخ شدید و بالقوه تهدیدکننده زندگی به عفونت است که باعث اختلال در عملکرد اعضا می‌شود."
+    },
+    {
+        "en": "Septicemia, also known as bloodstream infection, is a serious infection causing bacteria to spread in the blood.",
+        "fa": "سپتی سمی، همچنین به عنوان عفونت خونی شناخته می‌شود، یک عفونت جدی است که باعث گسترش باکتری‌ها در خون می‌شود."
+    },
+    {
+        "en": "SARS (Severe Acute Respiratory Syndrome) is a contagious viral respiratory illness causing fever, cough, and breathing difficulties.",
+        "fa": "سارس (سندرم تنفسی حاد شدید) یک بیماری ویروسی تنفسی مسری است که تب، سرفه و مشکلات تنفسی ایجاد می‌کند."
+    },
+    {
+        "en": "Shigellosis is a bacterial infection causing diarrhea, fever, and abdominal pain.",
+        "fa": "شیگلوزیس یک عفونت باکتریایی است که اسهال، تب و درد شکمی ایجاد می‌کند."
+    },
+    {
+        "en": "Shin splints is a term for pain along the shin bone, often due to overuse or physical activity.",
+        "fa": "آتل ساق پا اصطلاحی برای درد در امتداد استخوان ساق است، که اغلب به علت زیاده‌استفاده یا فعالیت‌های فیزیکی ایجاد می‌شود."
+    },
+    {
+        "en": "Shingles, also known as herpes zoster, is a viral infection causing a painful rash.",
+        "fa": "زونا، همچنین به عنوان هرپس زوستر شناخته می‌شود، یک عفونت ویروسی است که تورم دردناک را ایجاد می‌کند."
+    },
+    {
+        "en": "Sickle-cell anemia is a genetic disorder affecting red blood cells, causing them to become crescent-shaped and leading to anemia.",
+        "fa": "کم خونی داسی شکل یک اختلال ژنتیکی است که سلول‌های خون قرمز را تحت تأثیر قرار داده و باعث شکل پیله‌ای آن‌ها و کمبود آهن می‌شود."
+    },
+    {
+        "en": "Siderosis is a condition resulting from excessive iron accumulation in the body's tissues.",
+        "fa": "سیدروزیس یک شرایط ناشی از تجمع زیاد آهن در بافت‌های بدن است."
+    },
+    {
+        "en": "Silicosis is a lung disease caused by inhaling silica dust, often seen in workers exposed to such dust.",
+        "fa": "سیلیکوزیس یک بیماری ریه‌هاست که به دلیل تنفس غبار سیلیس ایجاد می‌شود و اغلب در کارگرانی که به این غبار معرض هستند دیده می‌شود."
+    },
+    {
+        "en": "Smallpox is a contagious and often deadly viral infection causing fever and a characteristic rash.",
+        "fa": "ابله یک عفونت ویروسی مسری و اغلب مرگبار است که تب و آفت مشخص را ایجاد می‌کند."
+    },
+    {
+        "en": "Stevens-Johnson syndrome is a rare but severe skin reaction, often triggered by medication.",
+        "fa": "سندرم استیونز-جانسون یک واکنش پوستی نادر اما شدید است که اغلب به وسیله داروها شروع می‌شود."
+    },
+    {
+        "en": "Stomach flu is a colloquial term for gastroenteritis, an infection causing vomiting and diarrhea.",
+        "fa": "آنفلوآنزای معده اصطلاحی عامیانه برای معده و روده است، یک عفونت که استفراغ و اسهال را ایجاد می‌کند."
+    },
+    {
+        "en": "Stomach ulcers are open sores that develop on the lining of the stomach, often causing pain and discomfort.",
+        "fa": "زخم معده زخم‌های بازی هستند که بر روی لایه داخلی معده تشکیل می‌شوند و اغلب درد و ناراحتی ایجاد می‌کنند."
+    },
+    {
+    "en": "Strabismus is a condition where the eyes are not properly aligned and point in different directions.",
+    "fa": "استرابیسم یک شرایط است که چشم‌ها به درستی هم‌خط نیستند و به جهات مختلفی اشاره می‌کنند."
+    },
+    {
+    "en": "Strep throat is a bacterial infection causing inflammation and pain in the throat.",
+    "fa": "گلودرد استرپتوکوکی یک عفونت باکتریایی است که التهاب و درد در گلو ایجاد می‌کند."
+    },
+    {
+    "en": "Streptococcal infection is an infection caused by Streptococcus bacteria, often leading to various health issues.",
+    "fa": "عفونت استرپتوکوک یک عفونت ناشی از باکتری‌های استرپتوکوک است که اغلب منجر به مشکلات مختلف سلامتی می‌شود."
+    },
+    {
+    "en": "Synovitis is inflammation of the synovial membrane, often affecting joints.",
+    "fa": "سینوویت التهاب غشاء مفصلی است که اغلب مفاصل را تحت تأثیر قرار می‌دهد."
+    },
+    {
+    "en": "Syphilis is a sexually transmitted infection caused by the bacterium Treponema pallidum.",
+    "fa": "سیفلیس یک عفونت انتقالی جنسی است که توسط باکتری ترپونما پالیدوم ایجاد می‌شود."
+    },
+    {
+    "en": "Swine influenza, also known as swine flu, is a contagious respiratory disease affecting pigs and occasionally humans.",
+    "fa": "آنفولانزای خوکی، همچنین به عنوان آنفولانزای خوکی شناخته می‌شود، یک بیماری تنفسی مسری است که خوک‌ها و گاهی اوقات انسان‌ها را تحت تأثیر قرار می‌دهد."
+    },
+    {
+    "en": "Stomach Gas refers to the presence of excessive gas in the stomach, often causing discomfort.",
+    "fa": "گاز معده به وجود آمدن گاز اضافی در معده اشاره دارد که اغلب ناراحتی ایجاد می‌کند."
+    },
+    {
+    "en": "Stomach Ache is a general term for pain or discomfort in the stomach area.",
+    "fa": "معده درد اصطلاحی عامیانه برای درد یا ناراحتی در منطقه معده است."
+    },
+    {
+    "en": "Stomach Disease refers to any disorder or condition affecting the stomach's health and functionality.",
+    "fa": "بیماری معده به هر اختلال یا شرایطی اشاره دارد که سلامت و عملکرد معده را تحت تأثیر قرار می‌دهد."
+    },
+    {
+    "en": "Kids Stomach Ache is a term for stomach discomfort experienced by children.",
+    "fa": "معده درد بچه‌ها اصطلاحی است که به ناراحتی معده اطفال اشاره دارد."
+    },
+    {
+    "en": "Upset Stomach refers to gastrointestinal discomfort often accompanied by nausea, vomiting, or diarrhea.",
+    "fa": "ناراحتی معده به ناراحتی گوارشی اشاره دارد که اغلب همراه با تهوع، استفراغ یا اسهال است."
+    },
+    {
+    "en": "Taeniasis is an infection caused by tapeworms of the genus Taenia, often acquired through undercooked meat consumption.",
+    "fa": "تنیازیس یک عفونت است که توسط کرم‌های نخچه جنس تنیا ایجاد می‌شود و اغلب از طریق مصرف گوشت کم‌پخت به دست می‌آید."
+    },
+    {
+    "en": "Tay-Sachs disease is a rare genetic disorder causing a progressive deterioration of nerve cells.",
+    "fa": "بیماری تای ساکس یک اختلال ژنتیکی نادر است که منجر به تخریب تدریجی سلول‌های عصبی می‌شود."
+    },
+    {
+    "en": "Tennis elbow is a condition where the outer part of the elbow becomes painful and tender.",
+    "fa": "آرنج تنیس بازان یک شرایط است که بخش خارجی آرنج دردناک و حساس می‌شود."
+    },
+    {
+    "en": "Teratoma is a type of tumor that may contain different types of tissue, often found in the ovaries or testes.",
+    "fa": "تراتوم یک نوع تومور است که ممکن است حاوی انواع مختلف بافت باشد و اغلب در تخمدان‌ها یا تستیس‌ها یافت می‌شود."
+    },
+    {
+    "en": "Tetanus is a bacterial infection causing muscle stiffness and spasms, often triggered by contaminated wounds.",
+    "fa": "کزاز یک عفونت باکتریایی است که ایجاد استخوانک در ماهیچه‌ها و اسپاسم‌ها را ایجاد می‌کند و اغلب به وسیله زخم‌های آلوده به عوامل تریگر می‌شود."
+    },
+    {
+    "en": "Thalassemia is a genetic blood disorder leading to decreased hemoglobin and anemia.",
+    "fa": "تالاسمیا یک اختلال خونی ژنتیکی است که منجر به کاهش هموگلوبین و کم‌خونی می‌شود."
+    },
+    {
+    "en": "Thrush is a fungal infection causing white patches in the mouth and throat.",
+    "fa": "برفک یک عفونت قارچی است که پچ‌های سفید در دهان و گلو ایجاد می‌کند."
+    },
+    {
+    "en": "Thymoma is a rare tumor originating from the thymus gland.",
+    "fa": "تیموم یک تومور نادر است که از غده تیموس نشات می‌گیرد."
+    },
+    {
+    "en": "Tinnitus is a perception of noise or ringing in the ears, often due to inner ear problems.",
+    "fa": "وزوز گوش یک درک از صدا یا زنگ در گوش است که اغلب به دلیل مشکلات گوش داخلی ایجاد می‌شود."
+    },
+    {
+    "en": "Tonsillitis is inflammation of the tonsils, often causing sore throat and difficulty swallowing.",
+    "fa": "ورم لوزه التهاب لوزه‌ها است که اغلب باعث گلو درد و مشکل در بلع شدن می‌شود."
+    },
+    {
+    "en": "Tooth decay is the destruction of the tooth enamel and underlying structure due to bacteria and acids.",
+    "fa": "پوسیدگی دندان نابودی مینای دندان و ساختار زیرین به دلیل باکتری‌ها و اسیدها است."
+    },
+    {
+    "en": "Toxic shock syndrome is a rare but serious bacterial infection often associated with tampon use.",
+    "fa": "سندرم شوک سمی یک عفونت باکتریایی نادر اما جدی است که اغلب با استفاده از تمپون مرتبط است."
+    },
+    {
+    "en": "Trichinosis is an infection caused by consuming undercooked or raw meat containing the Trichinella parasite.",
+    "fa": "تریکینوزیس یک عفونت است که به دلیل مصرف گوشت کم‌پخت یا خام که حاوی انگل تریکینلا است، ایجاد می‌شود."
+    },
+    {
+    "en": "Trichomoniasis is a sexually transmitted infection caused by the parasite Trichomonas vaginalis.",
+    "fa": "تریکینوزیس یک عفونت است که به دلیل مصرف گوشت کم‌پخت یا خام که حاوی انگل تریکینلا است، ایجاد می‌شود."
+    },
+    {
+    "en": "Trisomy is a genetic disorder characterized by the presence of an extra chromosome in cells.",
+    "fa": "تریزومی یک اختلال ژنتیکی است که به وجود آمدن کروموزوم اضافی در سلول‌ها مشخص می‌شود."
+    },
+    {
+    "en": "Tuberculosis is a bacterial infection primarily affecting the lungs, but it can also spread to other parts of the body.",
+    "fa": "بیماری سل یک عفونت باکتریایی است که در اصل ریه‌ها را تحت تأثیر قرار می‌دهد، اما ممکن است به سایر بخش‌های بدن هم گسترش یابد."
+    },
+    {
+    "en": "Tularemia is a rare infectious disease caused by the bacterium Francisella tularensis.",
+    "fa": "تولارمیا یک بیماری عفونی نادر است که توسط باکتری فرانسیسلا تولارنسیس ایجاد می‌شود."
+    },
+    {
+    "en": "Tungiasis is a skin disease caused by the penetration of female sand fleas into the skin.",
+    "fa": "تونگیازیس یک بیماری پوستی است که به دلیل نفوذ سوسک‌های ماده شن به پوست ایجاد می‌شود."
+    },
+    {
+    "en": "Typhoid fever is a bacterial infection caused by Salmonella Typhi, often transmitted through contaminated food or water.",
+    "fa": "تب حصبه یک عفونت باکتریایی است که توسط سالمونلا تایفی ایجاد می‌شود، اغلب از طریق مواد غذایی یا آب آلوده منتقل می‌شود."
+    },
+    {
+    "en": "Typhus is a group of infectious diseases caused by bacteria transmitted by fleas, ticks, or lice.",
+    "fa": "تیفوس یک گروه از بیماری‌های عفونی است که توسط باکتری‌ها توسط شپش‌ها، کنه‌ها یا شپش‌ها منتقل می‌شوند."
+    },
+    {
+    "en": "Tumor is an abnormal growth of cells that can be cancerous (malignant) or non-cancerous (benign).",
+    "fa": "تومور یک رشد نامناسب از سلول‌ها است که ممکن است سرطانی (خبیث) یا غیرسرطانی (خوش‌خیم) باشد."
+    },
+    {
+    "en": "Ulcerative colitis is a chronic inflammatory bowel disease causing ulcers and inflammation in the colon.",
+    "fa": "کولیت زخمی یک بیماری التهابی مزمن روده است که زخم‌ها و التهاب در کولون ایجاد می‌کند."
+    },
+    {
+    "en": "Ulcers are open sores on the skin or mucous membranes, often caused by poor blood circulation or infection.",
+    "fa": "زخم‌ها زخم‌های باز بر روی پوست یا غشاهای مخاطی هستند که اغلب به دلیل گردش خون نامناسب یا عفونت ایجاد می‌شوند."
+    },
+    {
+    "en": "Uremia is a serious condition resulting from kidney dysfunction and the buildup of waste products in the blood.",
+    "fa": "اورمیا یک وضعیت جدی است که ناشی از اختلال کلیه و تجمع محصولات ضایعاتی در خون است."
+    },
+    {
+    "en": "Urticaria, also known as hives, is a skin rash characterized by itchy, raised, and red welts.",
+    "fa": "کهیر، همچنین به عنوان گزنه‌ها شناخته می‌شود، یک بیماری پوستی است که به واسطه زخم‌های خارش‌آور، برجسته و قرمز مشخص می‌شود."
+    },
+    {
+    "en": "Uveitis is inflammation of the uvea, the middle layer of the eye.",
+    "fa": "یووئیتیس التهاب لایه میانی چشم، لایه ووا است."
+    },
+    {
+    "en": "Varicella, commonly known as chickenpox, is a highly contagious viral infection causing an itchy skin rash.",
+    "fa": "واریسلا، به طور معمول به عنوان آبله مرغان شناخته می‌شود، یک عفونت ویروسی بسیار مسری است که ایجاد آبله پوستی خارشی می‌کند."
+    },
+    {
+    "en": "Varicose veins are enlarged and swollen veins that often appear on the legs and can cause discomfort.",
+    "fa": "رگ‌های واریسی رگ‌های بزرگ و تورم‌یافته هستند که اغلب بر روی پاها ظاهر می‌شوند و می‌توانند ناراحتی ایجاد کنند."
+    },
+    {
+    "en": "Vasovagal syncope is a sudden loss of consciousness due to a drop in heart rate and blood pressure.",
+    "fa": "سنکوپ وازوواگال یک از دست دادن ناگهانی هوش به دلیل کاهش ضربان قلب و فشار خون است."
+    },
+    {
+    "en": "Vitiligo is a skin condition characterized by the loss of pigment, resulting in white patches on the skin.",
+    "fa": "ویتیلیگو یک شرایط پوستی است که به خاطر از دست دادن رنگ، منجر به پچ‌های سفید بر روی پوست می‌شود."
+    },
+    {
+    "en": "Von Hippel-Lindau disease is a genetic disorder causing tumors and cysts in various parts of the body.",
+    "fa": "بیماری فون هیپل-لیندو یک اختلال ژنتیکی است که منجر به تومورها و کیست‌ها در انواع بخش‌های بدن می‌شود."
+    },
+    {
+    "en": "Viral fever refers to a fever caused by viral infections.",
+    "fa": "تب ویروسی به تبی اشاره دارد که توسط عفونت‌های ویروسی ایجاد می‌شود."
+    },
+    {
+    "en": "Viral meningitis is an inflammation of the meninges caused by viral infections.",
+    "fa": "مننژیت ویروسی یک التهاب در موارد ایجاد شده توسط عفونت‌های ویروسی است."
+    },
+    {
+    "en": "Warkany syndrome is a rare genetic disorder causing developmental abnormalities.",
+    "fa": "سندرم وارکانی یک اختلال ژنتیکی نادر است که منجر به ناهنجاری‌های توسعه‌ای می‌شود."
+    },
+    {
+    "en": "Warts are small, rough growths on the skin caused by the human papillomavirus.",
+    "fa": "زگیل‌ها رشد‌های کوچک و ناهموار در پوست هستند که توسط ویروس پاپیلومای انسان ایجاد می‌شوند."
+    },
+    {
+    "en": "Watkins is not recognized as a medical term or condition in the provided list.",
+    "fa": "واتکینز به عنوان یک واژه یا شرایط پزشکی در لیست ارائه‌شده تشخیص داده نشده است."
+    },
+    {
+    "en": "Yellow fever is a viral infection transmitted by mosquitoes and causing fever, jaundice, and bleeding.",
+    "fa": "تب زرد یک عفونت ویروسی است که توسط پشه‌ها منتقل می‌شود و تب، زردی و خون‌ریزی را ایجاد می‌کند."
+    },
+    {
+    "en": "Yersiniosis is an infection caused by the bacterium Yersinia, often resulting from consuming contaminated food.",
+    "fa": "یرسینیوز یک عفونت است که توسط باکتری یرسینیا ایجاد می‌شود و اغلب نتیجه مصرف مواد غذایی آلوده می‌شود."
+    }
+         
+]
+  

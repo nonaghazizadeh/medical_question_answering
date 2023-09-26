@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2023-07-21T06:37:41.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="xmMKRBLwSoCqP-sJt9Xw" version="21.6.5" type="google">
+  <diagram name="Page-1" id="4VzplYuhZOeFdLJK-lJS">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JWa1NCD3ARXevMhknaDW-1" value="drug recommended system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="207.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-2" value="Knowledge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-3" value="&lt;div&gt;content based&lt;/div&gt;&lt;div&gt;(CB)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-4" value="collaborative filtering (CF)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-5" value="Hybrid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-6" value="ontology" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-7" value="ml" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-8" value="ml" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-10" value="model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="267.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-11" value="memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-12" value="CB &amp;amp; Knowledge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-13" value="User CF &amp;amp; Knowledge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-14" value="Item CF &amp;amp; Knowledge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-15" value="Matrix Factorization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-16" value="SVD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="207.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-17" value="SVD++" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="282.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-18" value="user filtering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-19" value="item filtering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-20" value="ml" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-21" value="ml" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-22" value="ml" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-23" value="past" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-24" value="diversity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-25" value="tf-idf/ bag of word" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-26" value="sentiment analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-27" value="deep learning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-28" value="CNN-RNN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-29" value="bert" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-30" value="lstm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-31" value="cnn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JWa1NCD3ARXevMhknaDW-34" value="drug review" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q_cggr_t2aXMFoSgmGGC-1" value="&lt;div&gt;ontology and rule&lt;br&gt;&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;data mining and ml&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-300" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
